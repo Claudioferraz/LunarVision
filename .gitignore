@@ -1,0 +1,19 @@
+# Modelo baixado automaticamente na primeira execução (arquivo grande, não precisa versionar)
+hand_landmarker.task
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache e bytecode do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema/Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
