@@ -17,11 +17,11 @@ Na primeira execução, o programa baixa automaticamente o arquivo `hand_landmar
 
 ## Gestos
 
-- ☝️ Só o indicador esticado — apontar (move o cursor)
-- ✌️ Indicador + médio esticados — clique
-- ✊ Mão fechada — arraste
-- 🤏 Polegar + indicador em pinça — desenho
-- ✋ Mão aberta — pausa (congela o cursor)
+- ☝️ Só o indicador esticado (ou qualquer outra posição) — apontar (move o cursor)
+- ✌️ Indicador + médio esticados ("paz") — clique
+- ✊ Mão fechada — arraste (mantém o botão esquerdo pressionado)
+
+O cursor só se move quando a mão está dentro da área da lousa definida na calibração.
 
 ## Status do projeto
 
